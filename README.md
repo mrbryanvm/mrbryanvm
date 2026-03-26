@@ -12,7 +12,7 @@
 
 
 &emsp;
-<a href="https://www.instagram.com/halmyradov/">
+<a>
     ![Instagram: mr_bryanvm]()
 </a>
 
