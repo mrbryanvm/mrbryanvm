@@ -1,11 +1,18 @@
 <h1 align="center">Hi I'm Bryan</h1>
 
--------------------
-&emsp;
+---
 
-- 🔭 I’m currently studying at the [UMSS](https://www.umss.edu.bo/) 
-- Being the reason someone believes in good people.
-&emsp;
+###  About Me
+- 🎓 **Current Focus:**  Systems Engineering student at [UMSS](https://www.umss.edu.bo/).
+- 🧠 **Specialization:** Actively pivoting towards **Machine Learning** and **Computer Vision**, with a strong interest in heuristic search and automated decision-making.
+- 🤝 **Philosophy:** I believe in "being the reason someone believes in good people." Professionally, this translates to clean code, reliable documentation, and radical transparency in collaboration.
+
+### Professional Values
+- **Integrity over Shortcuts:** I prioritize long-term system performance and maintainability over quick, dirty fixes.
+- **Continuous Growth:** My goal is to master the mathematical foundations of AI to build solutions that solve real-world problems in Bolivia and beyond.
+- **Supportive Collaboration:** Always willing to help peers and contribute to open-source environments where knowledge is shared.
+
+---
 
 ## Me around the web:
 -------------------
