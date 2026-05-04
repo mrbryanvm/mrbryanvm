@@ -11,6 +11,9 @@
 ### Professional Values
 - **Continuous Growth:** My goal is to master Machine Learning to build solutions that solve real-world problems in Bolivia and beyond.
 - **Supportive Collaboration:** Always willing to help peers and contribute to open-source environments where knowledge is shared.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mrbryanvm&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views">
+</p>
 
 ---
 
